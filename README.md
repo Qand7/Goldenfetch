@@ -5,8 +5,8 @@ A gilded theme for the neofetch utility consisting of stylistic additions in com
 
 # Installation
 
-Simply replace your current ''' .config/neofetch/config.conf ''' file with the one in the repo
+Simply replace your current ``` .config/neofetch/config.conf ``` file with the one in the repo
 
-# Dependenciers
+# Dependencies
 
 Before using this theme you'll need to have installed neofetch, this is done differently depending on your distro
