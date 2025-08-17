@@ -1,4 +1,4 @@
 # Gildenfetch
 A gilded theme for the neofetch utility with stylistic additions in combination to color adjustments
 
-<img width="801" height="399" alt="Gildenfetch" src="https://github.com/user-attachments/assets/82c4d0b5-01fd-4c50-b1f5-83cdb5724fc0" />
+<img width="3840" height="2160" alt="Gildedfetch" src="https://github.com/user-attachments/assets/f05ee6fa-58b0-4317-93e3-ff16cf0e0f2f" />
