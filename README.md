@@ -1,11 +1,15 @@
 # Goldenfetch
-A gilded theme for the neofetch utility consisting of stylistic additions in combination with color adjustments
+A golden theme for the neofetch utility consisting of stylistic additions in combination with color adjustments
 
 <img width="3840" height="2160" alt="Gildedfetch" src="https://github.com/user-attachments/assets/0282b2fc-98f3-4085-9bef-c7e3d650f5b1" />
 
 # Installation
 
-Simply replace your current ``` .config/neofetch/config.conf ``` file with the one in the repo
+```shell
+git clone https://github.com/Qand7/Goldenfetch
+cd Goldenfetch
+cp config.conf .config/neofetch/config.conf
+```
 
 # Dependencies
 
