@@ -8,7 +8,7 @@ A golden theme for the neofetch utility consisting of stylistic additions in com
 ```shell
 git clone https://github.com/Qand7/Goldenfetch
 cd Goldenfetch
-cp config.conf .config/neofetch/config.conf
+cp config.conf > .config/neofetch/config.conf
 ```
 
 # Dependencies
